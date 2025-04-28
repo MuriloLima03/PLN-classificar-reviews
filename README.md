@@ -7,3 +7,9 @@ para que ele possa funcionar, é necessário possuir o python, uma vez tendo o p
 pip install spacy
 python -m spacy download pt_core_news_sm
 ```
+
+para rodar o código:
+
+```
+    python '.\Classificar-reviews.py'
+```
